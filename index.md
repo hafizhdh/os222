@@ -13,6 +13,6 @@ This is {{ site.title }} and I am {{ site.author }}.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}.
 <hr>
 <br>
