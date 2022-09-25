@@ -29,9 +29,15 @@ A very complete handbook for beginner like me to learn C programming language
 3. [Inroduction to Cryptography](https://www.youtube.com/watch?v=5jpgMXt1Z9Y)<br>
 Explanation about the basic ideas of cryptography with attractive illustrations
 
+## WEEK 03
+1. [Linux Virtual File System](https://opensource.com/article/19/3/virtual-filesystems-linux)
+This page provide explanation about virtual file system especially in linux.
+
+2. [File System Implementation](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/#:~:text=A%20file%20is%20a%20collection,stored%2C%20located%2C%20and%20retrieved.)
+Contains explanation about file system layers and structures in a simple way.
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}.
 <hr>
 <br>
