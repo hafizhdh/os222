@@ -37,3 +37,13 @@ ZCZC W03 10 L23 Bash, Regex, SED, AWK.
 ZCZC W02 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 25 L40 TXT/ related in general
 ZCZC W03 100 L99 Offline Lecture
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 20 L05 Quiz related including studying
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L09 Weekly Assignments
+ZCZC W04 10 L22 Linux CLI including tar, etc.
+ZCZC W04 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 25 L40 TXT/ related in general
+ZCZC W04 100 L99 Offline Lecture

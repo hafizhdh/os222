@@ -30,11 +30,15 @@ A very complete handbook for beginner like me to learn C programming language
 Explanation about the basic ideas of cryptography with attractive illustrations
 
 ## WEEK 03
-1. [Linux Virtual File System](https://opensource.com/article/19/3/virtual-filesystems-linux)
+1. [Linux Virtual File System](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
 This page provide explanation about virtual file system especially in linux.
 
-2. [File System Implementation](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/#:~:text=A%20file%20is%20a%20collection,stored%2C%20located%2C%20and%20retrieved.)
+2. [File System Implementation](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/#:~:text=A%20file%20is%20a%20collection,stored%2C%20located%2C%20and%20retrieved.)<br>
 Contains explanation about file system layers and structures in a simple way.
+
+## WEEK 04
+1. [Full Course to Learn More about Pointers in C Language1](https://www.youtube.com/watch?v=zuegQmMdy8M)<br>
+If you want to learn more about pointers especially in C language or anything else about programming, just explores in this youtube account.
 
 <br>
 <hr>
