@@ -40,6 +40,13 @@ Contains explanation about file system layers and structures in a simple way.
 1. [Full Course to Learn More about Pointers in C Language1](https://www.youtube.com/watch?v=zuegQmMdy8M)<br>
 If you want to learn more about pointers especially in C language or anything else about programming, just explores in this youtube account.
 
+## WEEK 05
+1. [Demand Paging](https://digitalthinkerhelp.com/demand-paging-in-os-operating-system-examples-advantages-working/)<br>
+Explanation about basic concept of demand paging and how it works
+
+2. [Page Replacement](https://www.scaler.com/topics/operating-system/page-replacement-algorithm/)<br>
+This page explain about Page Replacement in OS with some examples
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
