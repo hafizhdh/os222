@@ -47,6 +47,13 @@ Explanation about basic concept of demand paging and how it works
 2. [Page Replacement](https://www.scaler.com/topics/operating-system/page-replacement-algorithm/)<br>
 This page explain about Page Replacement in OS with some examples
 
+## WEEK 06
+1. [How fork() in C working](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+More about fork() with simply explanation and examples
+
+2. [Process in Operating System](https://byjus.com/gate/process-in-operating-system-notes/#:~:text=A%20process%20is%20a%20running,is%20an%20'active'%20entity.)<br>
+Describes about process works in operating system
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
