@@ -91,3 +91,14 @@ ZCZC W08 10 L25 C-language including Make.
 ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W08 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W08 15 L40 TXT/ related in general
+ZCZC W09 10 L01 SCELE/Discord related
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 20 L05 Quiz related including studying
+ZCZC W09 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 60 L09 Weekly Assignments
+ZCZC W09 10 L22 Linux CLI including tar, etc.
+ZCZC W09 10 L25 C-language including Make.
+ZCZC W09 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W09 15 L40 TXT/ related in general
+ZCZC W09 100 L99 Offline Lecture
