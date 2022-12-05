@@ -54,6 +54,14 @@ More about fork() with simply explanation and examples
 2. [Process in Operating System](https://byjus.com/gate/process-in-operating-system-notes/#:~:text=A%20process%20is%20a%20running,is%20an%20'active'%20entity.)<br>
 Describes about process works in operating system
 
+## LAST WEEK!
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+Guidebook to make Linux From Scratch
+
+2. [LFS Walkthrough](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This playlist show us how to make Linux From Scratch
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
